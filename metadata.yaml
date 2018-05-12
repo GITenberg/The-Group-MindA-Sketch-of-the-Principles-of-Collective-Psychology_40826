@@ -1,0 +1,31 @@
+_repo: The-Group-MindA-Sketch-of-the-Principles-of-Collective-Psychology_40826
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McDougall, William
+    birthdate: 1871
+    deathdate: 1938
+    gutenberg_agent_id: '1162'
+    url: http://www.gutenberg.org/2009/agents/1162
+description: ''
+gutenberg_issued: '2012-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40826'
+  lccn: '20011579'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'National characteristics'
+- !lcsh 'Ethnopsychology'
+- !lcc 'GN'
+- !lcsh 'Social psychology'
+title: "The Group Mind: A Sketch of the Principles of Collective Psychology\r\nWith\
+  \ Some Attempt to Apply Them to the Interpretation of National Life and Character"
+url: http://www.gutenberg.org/ebooks/40826
