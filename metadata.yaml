@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '1162'
     url: http://www.gutenberg.org/2009/agents/1162
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40826#The-Group-MindA-Sketch-of-the-Principles-of-Collective-Psychology
 gutenberg_issued: '2012-09-22'
 gutenberg_type: Text
 identifiers:
